@@ -46,4 +46,6 @@ jobs:
           action: "close"
         env:
           HUGO_BASEURL: https://ambitious-sea-0d0469f00.2.azurestaticapps.net/
+          HUGO_VERSION: 0.146.0
+
 
